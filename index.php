@@ -1,3 +1,6 @@
+<pre>
 <?php 
-  print `ifconfig`;
+  print "Welcome to the PHP";
+  print `/usr/sbin/ifconfig`;
 ?>
+</pre>

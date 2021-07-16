@@ -1,3 +1,3 @@
 <?php 
-  print "Welcome to php";
+  print `ifconfig`;
 ?>
